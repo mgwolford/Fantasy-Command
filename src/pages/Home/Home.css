@@ -1,0 +1,42 @@
+.home {
+    padding: 40px;
+  }
+  
+  .hero {
+    text-align: center;
+  
+    padding: 80px 20px;
+  }
+  
+  .hero h1 {
+    font-size: 4rem;
+    margin-bottom: 20px;
+  }
+  
+  .hero p {
+    color: #aaa;
+    margin-bottom: 30px;
+  }
+  
+  .hero input {
+    width: 100%;
+    max-width: 500px;
+  
+    padding: 15px;
+  
+    border-radius: 8px;
+    border: none;
+  
+    background: #222;
+    color: white;
+  }
+  
+  .dashboard-grid {
+    margin-top: 60px;
+  
+    display: grid;
+  
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  
+    gap: 20px;
+  }

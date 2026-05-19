@@ -1,0 +1,27 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+    padding: 20px 40px;
+  
+    background: #1a1a1a;
+    border-bottom: 1px solid #333;
+  }
+  
+  .navbar h1 {
+    color: orange;
+  }
+  
+  .nav-links {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .nav-links a {
+    transition: 0.2s;
+  }
+  
+  .nav-links a:hover {
+    color: orange;
+  }
