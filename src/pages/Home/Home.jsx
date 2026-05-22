@@ -11,7 +11,7 @@ function Home() {
       <main className="home">
 
         <section className="hero">
-          <h1>Draft Command</h1>
+          <h1>Fantasy Command HQ</h1>
 
           <p>
             Take charge of your fantasy football team.

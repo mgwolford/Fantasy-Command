@@ -1,0 +1,31 @@
+.player-card {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  
+    padding: 1rem;
+  
+    border: 1px solid #333;
+    border-radius: 10px;
+  
+    background: rgba(0, 0, 0, 0.5);
+  }
+  
+  .player-rank {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .player-info h3 {
+    margin: 0;
+  }
+
+  .player-adp {
+    margin: 0.25rem 0 0;
+    font-size: 0.9rem;
+    color: #aaa;
+  }
+  
+  .player-stats {
+    font-weight: bold;
+  }
