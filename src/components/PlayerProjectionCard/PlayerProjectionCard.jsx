@@ -11,7 +11,7 @@ function PlayerProjectionCard({ player }) {
         <h3>{player.longName}</h3>
     </div>
     <div className="player-adp">
-        <p className="player-adp">{player.posADP}</p>
+        <p>{player.posADP}</p>
       </div>
 
       <div className="player-stats">
