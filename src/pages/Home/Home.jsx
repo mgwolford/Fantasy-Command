@@ -1,5 +1,6 @@
 import Navbar from '../../components/layout/Navbar'
 import DashboardCard from '../../components/dashboard/DashboardCard'
+import NFLNews from '../../components/NFLNews/NFLNews'
 
 import './Home.css'
 
@@ -46,6 +47,8 @@ function Home() {
           />
 
         </section>
+
+        <NFLNews />
       </main>
     </>
   )
